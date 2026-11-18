@@ -1,0 +1,7 @@
+{
+  "name": "IntermodularDAM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
